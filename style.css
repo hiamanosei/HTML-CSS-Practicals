@@ -1,0 +1,87 @@
+/************************************htnl Tags************************************************************************************/
+
+h2,h3,{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 2.8em;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    text-align: center;
+    margin: 0px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    color: gray;
+    margin-top: 20px:
+}
+
+/************************************Class Tags************************************************************************************/
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+}
+.attribution a {
+        color: hsl(228, 45%, 44%); 
+}
+.footer-txt{
+    position: absolute;
+    right: 20px;
+    bottom: 20px
+}
+.btn{
+    border-color: #fff;
+    border-style: solid;
+    background-color:#fff;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 0px 0px  0px 120px;
+    border-width: 5px 30px 5px 30px;
+    text-decoration:none; 
+    display: inline-block
+   
+      
+}
+.social-fb{
+   width: 24px; 
+    
+}
+.social-link{
+   width: 24px; 
+    
+}
+.social-g{
+   width: 24px; 
+    
+}
+.social-twit{
+   width: 24px; 
+    
+}
+.hero-image {
+  background-image: url("images/bg-desktop.svg"); /* The image used */
+  background-color: #654AAE;
+}
+.logo-img{
+    width: 150px;
+    position: absolute;
+    left: 100px;
+    top:60px;
+   
+}
+.mockup-img{
+    width: 50%;
+    float: left;
+    margin-right: 60px;
+    
+}
+.top-container{
+    text-align: left;
+    margin-left: 100px;
+    margin-top:140px ;
+}
